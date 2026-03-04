@@ -29,7 +29,7 @@ Me chamo Hélio Assis Silveira Júnior, tenho 30 anos e sou natural de Jataí/GO
     align="left" 
     alt="HTML"
     title="HTML" 
-    width="40px" 
+    width="50px" 
     style="padding-right: 15px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
@@ -38,7 +38,7 @@ Me chamo Hélio Assis Silveira Júnior, tenho 30 anos e sou natural de Jataí/GO
     align="left" 
     alt="css3" 
     title="css3"
-    width="40px" 
+    width="50px" 
     style="padding-right: 15px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
 />
@@ -47,7 +47,7 @@ Me chamo Hélio Assis Silveira Júnior, tenho 30 anos e sou natural de Jataí/GO
     align="left" 
     alt="TypeScript"
     title="TypeScript" 
-    width="40px" 
+    width="50px" 
     style="padding-right: 15px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
 />
@@ -56,7 +56,7 @@ Me chamo Hélio Assis Silveira Júnior, tenho 30 anos e sou natural de Jataí/GO
     align="left" 
     alt="SQL" 
     title="SQL"
-    width="40px" 
+    width="50px" 
     style="padding-right: 15px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" 
 />
@@ -65,7 +65,7 @@ Me chamo Hélio Assis Silveira Júnior, tenho 30 anos e sou natural de Jataí/GO
     align="left" 
     alt="Git" 
     title="Git"
-    width="40px" 
+    width="50px" 
     style="padding-right: 15px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
@@ -73,7 +73,7 @@ Me chamo Hélio Assis Silveira Júnior, tenho 30 anos e sou natural de Jataí/GO
     align="left" 
     alt="Python" 
     title="Python"
-    width="40px" 
+    width="50px" 
     style="padding-right: 15px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
@@ -81,10 +81,18 @@ Me chamo Hélio Assis Silveira Júnior, tenho 30 anos e sou natural de Jataí/GO
     align="left" 
     alt="MySQL" 
     title="MySQL"
-    width="40px" 
+    width="50px" 
     style="padding-right: 15px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"
 />  
+<img 
+    align="left" 
+    alt="Github" 
+    title="Github"
+    width="50px" 
+    style="padding-right: 15px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg"
+/> 
 
 <br/>
 <br/>
