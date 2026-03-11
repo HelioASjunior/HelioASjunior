@@ -109,6 +109,6 @@ Me chamo Hélio Assis Silveira Júnior, tenho 30 anos e sou natural de Jataí/GO
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=HelioASjunior&theme=radical&hide_border=true)
 
-![Snake animation](https://github.com/HelioASjunior/HelioASjunior/blob/main/snake.svg)
+![Snake animation](https://github.com/HelioASjunior/HelioASjunior/blob/output/github-contribution-grid-snake.svg)
 
 </div>
