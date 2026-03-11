@@ -108,14 +108,14 @@ Me chamo Hélio Assis Silveira Júnior, tenho 30 anos e sou natural de Jataí/GO
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=HelioASjunior&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=HelioASjunior&layout=compact&theme=tokyonight" />
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HelioASjunior&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HelioASjunior&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+</p>
 
-  <br><br>
-
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=HelioASjunior&theme=radical&hide_border=true" />
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HelioASjunior&theme=tokyonight&hide_border=true&background=0d1117" width="100%" />
+</p>
 
 
 
