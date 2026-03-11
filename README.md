@@ -114,7 +114,7 @@ Me chamo Hélio Assis Silveira Júnior, tenho 30 anos e sou natural de Jataí/GO
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HelioASjunior&theme=tokyonight&hide_border=true&background=0d1117" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HelioASjunior&theme=tokyonight&hide_border=true&background=0d1117" width="80%" />
 </p>
 
 
