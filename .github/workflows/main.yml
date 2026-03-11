@@ -1,27 +1,33 @@
-name: GitHub-Profile-3D-Contrib
+name: Generate Isometric 3D Calendar
 
 on:
   schedule:
     - cron: "0 0 * * *"
   workflow_dispatch:
+  push:
+    branches:
+      - main
 
 jobs:
   build:
     runs-on: ubuntu-latest
-    name: generate-github-profile-3d-contrib
-    permissions: # Garante explicitamente que a Action pode escrever no repo
+    permissions:
       contents: write
     steps:
-      - uses: actions/checkout@v4 # Atualizado para v4 (Node 24)
+      - uses: actions/checkout@v4 # Atualizado
       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          USERNAME: HelioASjunior
-      - name: Commit & Push
+          USERNAME: HelioASjunior # Seu usuário aqui
+      - name: Prepare dist folder
         run: |
-          git config user.name github-actions
-          git config user.email github-actions@github.com
-          git add -A .
-          # O comando abaixo evita o erro caso não haja mudanças
-          git commit -m "generated" || echo "No changes to commit"
-          git push
+          mkdir -p dist
+          cp -r profile-3d-contrib dist/ # Usamos cp para evitar erros de diretório inexistente
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v4 # Atualizado
+        with:
+          target_branch: output
+          build_dir: dist
+          keep_history: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
