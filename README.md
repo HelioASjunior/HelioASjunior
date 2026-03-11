@@ -1,5 +1,7 @@
 # 👨🏻‍💻 Hélio Júnior
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=39FF14&width=435&lines=Beep+boop...;Iniciando+Sistema...;Olá!)](https://git.io/typing-svg)
+
 **`Estudante de ADS | Python | SQL & Databases | Cybersecurity`**
 
 Me chamo Hélio Assis Silveira Júnior, tenho 30 anos e sou natural de Jataí/GO. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FGI. Possuo conhecimentos em Python, SQL e Banco de Dados, e estou em busca de uma oportunidade de estágio na área de Back-end ou Dados, onde eu possa aplicar e aprimorar minhas habilidades técnicas. "[LinkedIn](https://www.linkedin.com/in/heliojunior1218/)".
