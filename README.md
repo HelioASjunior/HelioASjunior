@@ -14,8 +14,12 @@
 
 Me chamo Hélio Assis Silveira Júnior, tenho 30 anos e sou natural de Jataí/GO. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FGI. Possuo conhecimentos em Python, SQL e Banco de Dados, e estou em busca de uma oportunidade de estágio na área de Back-end ou Dados, onde eu possa aplicar e aprimorar minhas habilidades técnicas.
 
+<div align="center">
+
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HelioASjunior)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/heliojunior1218/)
+
+</div>
 
 ---
 
