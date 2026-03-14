@@ -109,6 +109,15 @@ Me chamo Hélio Assis Silveira Júnior, tenho 30 anos e sou natural de Jataí/GO
 
 <img 
     align="left" 
+    alt="Tailwind" 
+    title="Tailwind"
+    width="50px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
+/>
+
+<img 
+    align="left" 
     alt="SQL" 
     title="SQL"
     width="50px" 
