@@ -1,18 +1,31 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:6EA8FE,100:A970FF"/>
+<br>
+
+<div align="center">
+  
+  <b>`Welcome to my GitHub!`</b>
+  <samp>
+      <br>
+      Hi there! I'm <b>Hélio Júnior</b>
+  </samp>
+</div>
+
+<div align="center" width="100%">
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=A970FF&width=900&size=22&center=true&lines=I+am+from+Brazil;I'm+a+student+of+Analysis+and+Systems+Development!;" alt="Typing SVG"/>
+</div>
+
+<br>
+
 <div align="center">
 
 # 👨🏻‍💻 Hélio Júnior
 
-</div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=39FF14&width=435&lines=Beep+boop...;Iniciando+Sistema...;Olá!)](https://git.io/typing-svg)
-
-<div align="center">
-
-**`Estudante de ADS | Python | SQL & Databases | Cybersecurity`**
+**`Student of Analysis and Development of Systems | Python | SQL & Databases | Cybersecurity`**
 
 </div>
 
-Me chamo Hélio Assis Silveira Júnior, tenho 30 anos e sou natural de Jataí/GO. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FGI. Possuo conhecimentos em Python, SQL e Banco de Dados, e estou em busca de uma oportunidade de estágio na área de Back-end ou Dados, onde eu possa aplicar e aprimorar minhas habilidades técnicas.
+My name is Hélio Assis Silveira Júnior, I am 30 years old and I am from Brazil. I am currently pursuing a degree in Analysis and Systems Development at FGI. I have knowledge in Python, SQL, and Databases, and I am seeking an internship opportunity in Back-end or Data, where I can apply and enhance my technical skills.
 
 <div align="center">
 
@@ -197,3 +210,5 @@ Me chamo Hélio Assis Silveira Júnior, tenho 30 anos e sou natural de Jataí/GO
 
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:6EA8FE,100:A970FF&section=footer"/>
