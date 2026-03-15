@@ -25,20 +25,28 @@ Me chamo Hélio Assis Silveira Júnior, tenho 30 anos e sou natural de Jataí/GO
 
 <div align="center">
 
-### **Quick Stats**
+<br>
+
+
+<img align="right" alt="Developer" width="500" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
 | Metric | Badge |
 |--------|-------|
 | **Profile Views** | ![Profile Views](https://komarev.com/ghpvc/?username=HelioASjunior&label=Profile%20Views&color=2E86C1&style=flat) |
 | **GitHub Followers** | ![GitHub Followers](https://img.shields.io/github/followers/HelioASjunior?label=Followers&style=flat&color=3498DB) |
 | **GitHub Stars** | ![GitHub Stars](https://img.shields.io/github/stars/HelioASjunior?label=Stars&style=flat&color=FFD700) |
 
-### **Activity Status**
+<br/>
+<br/>
+
 | Activity | Badge |
 |----------|-------|
 | **Last Commit** | ![Last Commit](https://img.shields.io/github/last-commit/HelioASjunior/HelioASjunior?label=Last%20Commit&style=flat&color=1A5276) |
 | **Profile Size** | ![Profile Size](https://img.shields.io/github/repo-size/HelioASjunior/HelioASjunior?label=Profile%20Size&style=flat&color=5D6D7E) |
 
 </div>
+
+<br clear="both">
 
 ---
 
