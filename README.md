@@ -41,7 +41,7 @@ My name is Hélio Assis Silveira Júnior, I am 30 years old and I am from Brazil
 <br>
 
 
-<img align="right" alt="Developer" width="500" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="right" alt="Developer" width="500" src="https://github.com/devSouvik/devSouvik/blob/master/gif4.gif?raw=true">
 
 | Metric | Badge |
 |--------|-------|
