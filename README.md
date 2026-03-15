@@ -183,5 +183,9 @@ Me chamo Hélio Assis Silveira Júnior, tenho 30 anos e sou natural de Jataí/GO
   <img src="https://raw.githubusercontent.com/HelioASjunior/HelioASjunior/output/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Calendar" />
 </p>
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=HelioASjunior&color=6C63FF&style=for-the-badge&label=Visitantes" alt="Profile views" />
+</div>
+
 
 </div>
