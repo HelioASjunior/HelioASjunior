@@ -21,7 +21,7 @@
 # 👨🏻‍💻 Hélio Júnior
 
 
-**`Student of Analysis and Development of Systems | Python | SQL & Databases | Cybersecurity`**
+**`ADS | Full Stack Developer em Formação | AI Agent Engineer | Python | DBA & Cybersecurity | Gen AI`**
 
 </div>
 
