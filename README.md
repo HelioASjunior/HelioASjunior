@@ -122,7 +122,7 @@ I'm looking for an internship opportunity in Back-end or Data, where I can contr
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/HelioASjunior/HelioASjunior/output/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Calendar" />
+  <img src="https://raw.githubusercontent.com/HelioASjunior/HelioASjunior/output/profile-3d-contrib/profile-night-view.svg" alt="3D Calendar" />
 </p>
 
 <div align="center">
