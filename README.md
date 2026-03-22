@@ -108,8 +108,6 @@ I'm looking for an internship opportunity in Back-end or Data, where I can contr
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> GitHub Stats
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-
 </div>
 
 <p align="center">
@@ -120,6 +118,12 @@ I'm looking for an internship opportunity in Back-end or Data, where I can contr
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=HelioASjunior&theme=tokyonight&hide_border=true&background=0d1117" width="80%" />
 </p>
+
+<div align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+</div>
+
+---
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/HelioASjunior/HelioASjunior/output/profile-3d-contrib/profile-night-view.svg" alt="3D Calendar" />
