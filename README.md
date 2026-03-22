@@ -29,8 +29,10 @@ My name is Hélio Assis Silveira Júnior, I am 30 years old and I am from Brazil
 
 <div align="center">
 
+[![Linktree](https://img.shields.io/badge/Linktree-4B30CC?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/devjunior014)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HelioASjunior)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/heliojunior1218/)
+
 
 </div>
 
