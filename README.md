@@ -18,7 +18,8 @@
 
 <div align="center">
 
-# 👨🏻‍💻 Hélio Júnior
+<!-- About Section -->
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> Hélio Júnior
 
 
 **`ADS | Full Stack Developer em Formação | AI Agent Engineer | Python | DBA & Cybersecurity | Gen AI`**
@@ -67,7 +68,7 @@ My name is Hélio Assis Silveira Júnior, I am 30 years old and I am from Brazil
 
 <div align="center">
 
-### 🤖 Linguagens e Tecnologias
+### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> Linguagens e Tecnologias
 
 </div>
 
@@ -189,7 +190,7 @@ My name is Hélio Assis Silveira Júnior, I am 30 years old and I am from Brazil
 
 <div align="center">
 
-## 📊 GitHub Stats
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> GitHub Stats
 
 </div>
 
