@@ -1,5 +1,4 @@
 name: Generate Isometric 3D Calendar
-
 on:
   schedule:
     - cron: "0 0 * * *"
@@ -7,24 +6,24 @@ on:
   push:
     branches:
       - main
-
 jobs:
   build:
     runs-on: ubuntu-latest
     permissions:
       contents: write
     steps:
-      - uses: actions/checkout@v4 # Atualizado
+      - uses: actions/checkout@v4
       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          USERNAME: HelioASjunior # Seu usuário aqui
+          USERNAME: HelioASjunior
+          OUTPUT_NAME: profile-3d-contrib/profile-night-view.svg
       - name: Prepare dist folder
         run: |
           mkdir -p dist
-          cp -r profile-3d-contrib dist/ # Usamos cp para evitar erros de diretório inexistente
+          cp -r profile-3d-contrib dist/
       - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v4 # Atualizado
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
