@@ -11,29 +11,40 @@
 </div>
 
 <div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=A970FF&width=900&size=22&center=true&lines=I+am+from+Brazil;I'm+a+student+of+Analysis+and+Systems+Development!;" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=A970FF&width=900&size=22&center=true&lines=Full+Stack+Developer+in+Training;AI+Agent+Engineer;Python+%7C+SQL+%7C+Databases;Back-end+%26+Data+Enthusiast;" alt="Typing SVG"/>
 </div>
 
 <br>
 
 <div align="center">
 
-<!-- About Section -->
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> Hélio Júnior
 
-
-**`ADS | Full Stack Developer em Formação | AI Agent Engineer | Python | DBA & Cybersecurity | Gen AI`**
-
-</div>
-
-My name is Hélio Assis Silveira Júnior, I am 30 years old and I am from Brazil. I am currently pursuing a degree in Analysis and Systems Development at FGI. I have knowledge in Python, SQL, and Databases, and I am seeking an internship opportunity in Back-end or Data, where I can apply and enhance my technical skills.
+**`ADS | Full Stack Developer in Training | AI Agent Engineer | Python | DBA & Cybersecurity | Gen AI`**
 
 <div align="center">
+
+<p align="justify">
+My name is Hélio Assis Silveira Júnior, I'm 30 years old and I'm from Brazil. I'm currently pursuing a degree in Analysis and Systems Development at FGI, where I've been building a solid technical foundation focused on Back-end development, data, and Artificial Intelligence.
+</p>
+
+<p align="justify">
+I have hands-on experience with Python, SQL, and Databases, along with an active interest in AI Agent Engineering and Generative AI — areas I've been deepening through self-study, keeping up with the latest trends in the tech industry.
+</p>
+
+<p align="justify">
+My profile combines the analytical mindset of a DBA with an automation and security-oriented perspective drawn from my interest in Cybersecurity, allowing me to think about robust, efficient, and secure solutions from the ground up.
+</p>
+
+<p align="justify">
+I'm looking for an internship opportunity in Back-end or Data, where I can contribute to real projects, learn from experienced teams, and accelerate my growth as a Full Stack Developer in the making.
+</p>
+
+</div>
 
 [![Linktree](https://img.shields.io/badge/Linktree-4B30CC?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/devjunior014)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HelioASjunior)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/heliojunior1218/)
-
 
 </div>
 
@@ -42,7 +53,6 @@ My name is Hélio Assis Silveira Júnior, I am 30 years old and I am from Brazil
 <div align="center">
 
 <br>
-
 
 <img align="right" alt="Developer" width="500" src="https://github.com/HelioASjunior/HelioASjunior/blob/main/gif4.gif?fraw=true">
 
@@ -72,112 +82,16 @@ My name is Hélio Assis Silveira Júnior, I am 30 years old and I am from Brazil
 
 </div>
 
-<img 
-    align="left" 
-    alt="Github" 
-    title="Github"
-    width="50px" 
-    style="padding-right: 15px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"
-/> 
+<div align="center">
 
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="50px" 
-    style="padding-right: 15px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
+| | | | | | |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="50"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="50"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="50"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="50"/> |
+| `Python` | `MySQL` | `JavaScript` | `TypeScript` | `React` | `Next.js` |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="50"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="50"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="50"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="50"/> | <img src="https://cdn.simpleicons.org/github/ffffff" width="50"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="50"/> |
+| `Tailwind` | `HTML` | `CSS` | `Git` | `GitHub` | `SQL` |
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="50px" 
-    style="padding-right: 15px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="50px" 
-    style="padding-right: 15px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
-/>
-
-<img 
-    align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="50px" 
-    style="padding-right: 15px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="50px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="50px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="Next.js" 
-    title="Next.js"
-    width="50px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="Tailwind" 
-    title="Tailwind"
-    width="50px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="SQL" 
-    title="SQL"
-    width="50px" 
-    style="padding-right: 15px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="50px" 
-    style="padding-right: 15px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="MySQL" 
-    title="MySQL"
-    width="50px" 
-    style="padding-right: 15px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"
-/>  
+</div>
 
 <br/>
 <br/>
@@ -185,12 +99,16 @@ My name is Hélio Assis Silveira Júnior, I am 30 years old and I am from Brazil
 ---
 
 <div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HelioASjunior&theme=tokyo-night&hide_border=true&bg_color=0d1117" alt="Activity Graph"/>
 </div>
+
+---
 
 <div align="center">
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> GitHub Stats
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 
 </div>
 
@@ -210,7 +128,6 @@ My name is Hélio Assis Silveira Júnior, I am 30 years old and I am from Brazil
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=HelioASjunior&color=6C63FF&style=for-the-badge&label=Visitantes" alt="Profile views" />
 </div>
-
 
 </div>
 
