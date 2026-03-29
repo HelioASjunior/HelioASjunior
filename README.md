@@ -25,19 +25,19 @@
 <div align="center">
 
 <p align="justify">
-My name is Hélio Assis Silveira Júnior, I'm 30 years old and I'm from Brazil. I'm currently pursuing a degree in Analysis and Systems Development at FGI, where I've been building a solid technical foundation focused on Back-end development, data, and Artificial Intelligence.
+My name is <b>Hélio Assis Silveira Júnior</b>, I'm 30 years old and I'm from Brazil. I'm currently pursuing a degree in Analysis and Systems Development at FGI, focusing my technical foundation on Back-end development, Data Intelligence, and Artificial Intelligence.
 </p>
 
 <p align="justify">
-I have hands-on experience with Python, SQL, and Databases, along with an active interest in AI Agent Engineering and Generative AI — areas I've been deepening through self-study, keeping up with the latest trends in the tech industry.
+Currently, I work as a <b>Junior Data Analyst</b>, where I leverage my expertise in Python and SQL to transform raw data into strategic insights. My daily focus involves managing databases and optimizing data workflows, always through the analytical lens of a DBA.
 </p>
 
 <p align="justify">
-My profile combines the analytical mindset of a DBA with an automation and security-oriented perspective drawn from my interest in Cybersecurity, allowing me to think about robust, efficient, and secure solutions from the ground up.
+My profile combines this analytical mindset with an automation and security-oriented perspective drawn from my interest in Cybersecurity. This allows me to architect robust, efficient, and secure solutions—from complex data pipelines to back-end services.
 </p>
 
 <p align="justify">
-I'm looking for an internship opportunity in Back-end or Data, where I can contribute to real projects, learn from experienced teams, and accelerate my growth as a Full Stack Developer in the making.
+I am deeply engaged in <b>AI Agent Engineering</b> and <b>Generative AI</b>, constantly refining my stack to evolve as a high-performance Full Stack Developer. I am driven by the challenge of bridging the gap between sophisticated data structures and scalable applications.
 </p>
 
 </div>
