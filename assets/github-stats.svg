@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">H&#233;lio Assis Silveira J&#250;nior's GitHub Stats, Rank: B</title>
-        <desc id="descId">Total Stars Earned: 93, Total Commits  : 311, Total PRs: 33, Total Issues: 24, Contributed to (last year): 13</desc>
+        <desc id="descId">Total Stars Earned: 91, Total Commits  : 311, Total PRs: 33, Total Issues: 24, Contributed to (last year): 13</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 130.11498395801212;
+        stroke-dashoffset: 130.50278772387935;
       }
     }
   
@@ -162,7 +162,7 @@
         x="219.01"
         y="12.5"
         data-testid="stars"
-      >93</text>
+      >91</text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms" transform="translate(25, 0)">
