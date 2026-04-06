@@ -20,7 +20,7 @@
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> Hélio Júnior
 
-**`ADS | Full Stack Developer in Training | AI Agent Engineer | Python | DBA & Cybersecurity | Gen AI`**
+**`Full Stack Developer | Gen AI | Analista de Sistemas e Dados`**
 
 <div align="center">
 
