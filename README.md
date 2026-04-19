@@ -129,13 +129,16 @@ I am deeply engaged in <b>AI Agent Engineering</b> and <b>Generative AI</b>, con
   <img src="https://raw.githubusercontent.com/HelioASjunior/HelioASjunior/output/profile-3d-contrib/profile-night-view.svg" alt="3D Calendar" />
 </p>
 
+---
+
+</div>
+<br/>
+<img width="1920" height="1080" alt="gif" src="https://github.com/user-attachments/assets/1a077a68-11c5-4f25-8403-74775406feac" />
+
+---
+
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=HelioASjunior&color=6C63FF&style=for-the-badge&label=Visitantes" alt="Profile views" />
 </div>
-
-</div>
-
-<img width="1920" height="1080" alt="gif" src="https://github.com/user-attachments/assets/1a077a68-11c5-4f25-8403-74775406feac" />
-
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:6EA8FE,100:A970FF&section=footer"/>
