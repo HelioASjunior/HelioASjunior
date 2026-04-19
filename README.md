@@ -135,4 +135,7 @@ I am deeply engaged in <b>AI Agent Engineering</b> and <b>Generative AI</b>, con
 
 </div>
 
+<img width="1920" height="1080" alt="gif" src="https://github.com/user-attachments/assets/1a077a68-11c5-4f25-8403-74775406feac" />
+
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:6EA8FE,100:A970FF&section=footer"/>
