@@ -42,7 +42,7 @@ I am deeply engaged in <b>AI Agent Engineering</b> and <b>Generative AI</b>, con
 
 </div>
 
-[![Linktree](https://img.shields.io/badge/Linktree-4B30CC?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/devjunior014)
+[![Beacons](https://img.shields.io/badge/Beacons-0047AB?style=for-the-badge&logo=beacons&logoColor=white)](https://beacons.ai/heliojr)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HelioASjunior)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/heliojunior1218/)
 
