@@ -25,7 +25,7 @@
 <div align="center">
 
 <p align="justify">
-My name is <b>Hélio Assis Silveira Júnior</b>, I'm 30 years old and I'm from Brazil. I'm currently pursuing a degree in Analysis and Systems Development at FGI, focusing my technical foundation on Back-end development, Data Intelligence, and Artificial Intelligence.
+My name is <b>Hélio Assis Silveira Júnior</b>, also known as Xinoqs. I'm 30 years old and I'm from Brazil.. I'm currently pursuing a degree in Analysis and Systems Development at FGI, focusing my technical foundation on Back-end development, Data Intelligence, and Artificial Intelligence.
 </p>
 
 <p align="justify">
