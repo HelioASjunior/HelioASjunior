@@ -116,7 +116,7 @@ I am deeply engaged in <b>AI Agent Engineering</b> and <b>Generative AI</b>, con
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HelioASjunior&theme=tokyonight&hide_border=true&background=0d1117" width="80%" />
+  <img src="https://github-readme-streak-stats-v2.vercel.app/?user=HelioASjunior&theme=tokyonight&hide_border=true&background=0d1117" width="80%" />
 </p>
 
 <div align="center">
