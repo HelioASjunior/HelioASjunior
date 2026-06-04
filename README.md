@@ -60,14 +60,14 @@ I am deeply engaged in <b>AI Agent Engineering</b> and <b>Generative AI</b>, con
 |--------|-------|
 | **Profile Views** | ![Profile Views](https://komarev.com/ghpvc/?username=HelioASjunior&label=Profile%20Views&color=2E86C1&style=flat) |
 | **GitHub Followers** | ![GitHub Followers](https://img.shields.io/github/followers/HelioASjunior?label=Followers&style=flat&color=3498DB) |
-| **GitHub Stars** | ![GitHub Stars](https://img.shields.io/github/stars/HelioASjunior?label=Stars&style=flat&color=FFD700) |
+| **GitHub Stars** | ![GitHub Stars](https://img.shields.io/github/stars/HelioASjunior?style=flat-square&color=FFD700) |
 
 <br/>
 <br/>
 
 | Activity | Badge |
 |----------|-------|
-| **Last Commit** | ![Last Commit](https://img.shields.io/github/last-commit/HelioASjunior/HelioASjunior?label=Last%20Commit&style=flat&color=1A5276) |
+| **Last Commit** | ![Last Commit](https://img.shields.io/github/last-commit/HelioASjunior/HelioASjunior?style=flat-square&color=1A5276) |
 | **Profile Size** | ![Profile Size](https://img.shields.io/github/repo-size/HelioASjunior/HelioASjunior?label=Profile%20Size&style=flat&color=5D6D7E) |
 
 </div>
