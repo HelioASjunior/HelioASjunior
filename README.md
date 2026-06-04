@@ -54,21 +54,55 @@ I am deeply engaged in <b>AI Agent Engineering</b> and <b>Generative AI</b>, con
 
 <br>
 
-<img align="right" alt="Developer" width="500" src="https://github.com/HelioASjunior/HelioASjunior/blob/main/gif4.gif?fraw=true">
+<table>
+<tr>
+<td valign="top">
 
-| Metric | Badge |
-|--------|-------|
-| **Profile Views** | ![Profile Views](https://komarev.com/ghpvc/?username=HelioASjunior&label=Profile%20Views&color=2E86C1&style=flat) |
-| **GitHub Followers** | ![GitHub Followers](https://img.shields.io/github/followers/HelioASjunior?label=Followers&style=flat&color=3498DB) |
-| **GitHub Stars** | ![GitHub Stars](https://img.shields.io/github/stars/HelioASjunior?style=flat-square&color=FFD700) |
+<table>
+<tr>
+<th>Metric</th>
+<th>Badge</th>
+</tr>
+<tr>
+<td><b>Profile Views</b></td>
+<td><img src="https://komarev.com/ghpvc/?username=HelioASjunior&label=Profile%20Views&color=2E86C1&style=flat"></td>
+</tr>
+<tr>
+<td><b>GitHub Followers</b></td>
+<td><img src="https://img.shields.io/github/followers/HelioASjunior?label=Followers&style=flat&color=3498DB"></td>
+</tr>
+<tr>
+<td><b>GitHub Stars</b></td>
+<td><img src="https://img.shields.io/github/stars/HelioASjunior?style=flat-square&color=FFD700"></td>
+</tr>
+</table>
 
-<br/>
-<br/>
+<br>
 
-| Activity | Badge |
-|----------|-------|
-| **Last Commit** | ![Last Commit](https://img.shields.io/github/last-commit/HelioASjunior/HelioASjunior?style=flat-square&color=1A5276) |
-| **Profile Size** | ![Profile Size](https://img.shields.io/github/repo-size/HelioASjunior/HelioASjunior?label=Profile%20Size&style=flat&color=5D6D7E) |
+<table>
+<tr>
+<th>Activity</th>
+<th>Badge</th>
+</tr>
+<tr>
+<td><b>Last Commit</b></td>
+<td><img src="https://img.shields.io/github/last-commit/HelioASjunior/HelioASjunior?style=flat-square&color=1A5276"></td>
+</tr>
+<tr>
+<td><b>Profile Size</b></td>
+<td><img src="https://img.shields.io/github/repo-size/HelioASjunior/HelioASjunior?label=Profile%20Size&style=flat&color=5D6D7E"></td>
+</tr>
+</table>
+
+</td>
+
+<td valign="top">
+
+<img alt="Developer" width="500" src="https://github.com/HelioASjunior/HelioASjunior/blob/main/gif4.gif?raw=true">
+
+</td>
+</tr>
+</table>
 
 </div>
 
