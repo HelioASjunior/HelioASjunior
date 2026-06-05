@@ -71,10 +71,7 @@ I am deeply engaged in <b>AI Agent Engineering</b> and <b>Generative AI</b>, con
 <td><b>GitHub Followers</b></td>
 <td><img src="https://img.shields.io/github/followers/HelioASjunior?label=Followers&style=flat&color=3498DB"></td>
 </tr>
-<tr>
-<td><b>GitHub Stars</b></td>
-<td><img src="https://img.shields.io/github/stars/HelioASjunior?style=flat-square&color=FFD700"></td>
-</tr>
+
 </table>
 
 <br>
