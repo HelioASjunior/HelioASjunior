@@ -87,7 +87,9 @@ I am deeply engaged in <b>AI Agent Engineering</b> and <b>Generative AI</b>, con
 </tr>
 <tr>
 <td><b>Profile Size</b></td>
-<td><img src="https://img.shields.io/github/repo-size/HelioASjunior/HelioASjunior?label=Profile%20Size&style=flat&color=5D6D7E"></td>
+<td>
+<img src="https://img.shields.io/github/directory-file-count/HelioASjunior/HelioASjunior?label=Profile%20Size&style=flat&color=5D6D7E">
+</td>
 </tr>
 </table>
 
