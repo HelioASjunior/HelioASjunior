@@ -81,16 +81,21 @@ I am deeply engaged in <b>AI Agent Engineering</b> and <b>Generative AI</b>, con
 <th>Activity</th>
 <th>Badge</th>
 </tr>
+
 <tr>
 <td><b>Last Commit</b></td>
-<td><img src="https://img.shields.io/github/last-commit/HelioASjunior/HelioASjunior?style=flat-square&color=1A5276"></td>
+<td>
+<img src="https://badgen.net/github/last-commit/HelioASjunior/HelioASjunior">
+</td>
 </tr>
+
 <tr>
 <td><b>Profile Size</b></td>
 <td>
-<img src="https://img.shields.io/github/directory-file-count/HelioASjunior/HelioASjunior?label=Profile%20Size&style=flat&color=5D6D7E">
+<img src="https://img.shields.io/github/repo-size/HelioASjunior/HelioASjunior?style=flat-square&label=README%20Size&color=5D6D7E">
 </td>
 </tr>
+
 </table>
 
 </td>
