@@ -29,7 +29,7 @@ My name is <b>Hélio Assis Silveira Júnior</b>, also known as Xinoqs. I'm 30 ye
 </p>
 
 <p align="justify">
-Currently, I work as a <b>Junior Data Analyst</b>, where I leverage my expertise in Python and SQL to transform raw data into strategic insights. My daily focus involves managing databases and optimizing data workflows, always through the analytical lens of a DBA.
+Currently, I work as a Data Quality Analyst at VHL Sistemas, where I leverage my expertise in Python and SQL to transform raw data into strategic insights. My daily focus involves managing databases and optimizing data workflows, always through the analytical lens of a DBA.
 </p>
 
 <p align="justify">
