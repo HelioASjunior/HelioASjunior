@@ -69,7 +69,7 @@ I am deeply engaged in <b>AI Agent Engineering</b> and <b>Generative AI</b>, con
 </tr>
 <tr>
 <td><b>GitHub Followers</b></td>
-<td><img src="https://img.shields.io/badge/Followers-156-3498DB?style=flat"></td>
+<td><img src="https://img.shields.io/badge/Followers-159-3498DB?style=flat"></td>
 </tr>
 
 </table>
