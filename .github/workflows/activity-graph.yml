@@ -1,0 +1,22 @@
+name: Generate Activity Graph
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Atualiza todo dia à meia-noite
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: maurodesouza/github-readme-activity-graph-action@v2
+        with:
+          username: HelioASjunior
+          options: "theme=tokyo-night&hide_border=true&bg_color=0d1117"
+          output_path: "dist/activity-graph.svg"
+
+      - uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "docs: update activity graph"
+          file_pattern: "dist/activity-graph.svg"
