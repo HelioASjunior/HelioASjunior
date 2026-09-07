@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: maurodesouza/github-readme-activity-graph-action@v2
+      - uses: maurodesouza/github-readme-activity-graph-action@main
         with:
           username: HelioASjunior
           options: "theme=tokyo-night&hide_border=true&bg_color=0d1117"
