@@ -12,6 +12,6 @@ jobs:
       contents: write
     steps:
       - uses: actions/checkout@v4
-      - uses: ashutosh00710/github-readme-activity-graph@v2.6.0
+      - uses: ashutosh00710/github-readme-activity-graph@v2
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
